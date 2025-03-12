@@ -33,7 +33,7 @@ function App() {
     <>
       <div className="w-full max-w-lg mx-auto shadow-md rounded-lg px-4 my-20 text-orange-500 bg-gray-800 text-2xl sm:text-xl sm:px-2 sm:my-10 sm:flex sm:justify-center sm:flex-col md:px-6 md:my-12 sm:overflow-hidden">
         <h1 className="m-3 text-4xl text-center text-white font-mono">
-          Password Generator
+          Hexakey
         </h1>
         <div className="flex shadow rounded-lg overflow-hidden mb-4">
           <input
